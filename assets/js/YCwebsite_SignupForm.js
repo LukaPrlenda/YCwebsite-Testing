@@ -15,6 +15,8 @@ function start_signup_js(){
     }
 
     document.getElementById("password").addEventListener("input", function(){password_strength_check();});
+
+    // Testing Password Strength
     function password_strength_check(){
         const text1=document.getElementById("password_strenght");
         let password=document.getElementById("password").value;
