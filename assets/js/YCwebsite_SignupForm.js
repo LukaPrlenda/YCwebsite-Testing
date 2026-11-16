@@ -90,3 +90,7 @@ function start_signup_js(){
         }
     }
 }
+
+if (typeof module !== "undefined") {
+    module.exports = { start_signup_js };
+}
