@@ -114,3 +114,11 @@ function go_to_id(){
         }, 200);
     }
 }
+
+
+
+
+//Expose functions for tests
+if (typeof module !== "undefined") {
+    module.exports = { check_stsus };
+}

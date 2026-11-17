@@ -1,7 +1,7 @@
 import { describe, it, expect, beforeEach } from "vitest";
-import { password_strength_check, start_signup_js } from "../assets/js/YCwebsite_SignupForm.js";
+import { password_strength_check } from "../assets/js/YCwebsite_SignupForm.js";
 
-describe("Tests for password_strength_check function", () => {
+describe("Tests for password_strength_check function which shows password stergth", () => {
     let input;
     let strenghtDisp;
 
@@ -11,7 +11,7 @@ describe("Tests for password_strength_check function", () => {
                 <input type="password" id="password" value="">
                 <div>
                     <p id="password_strenght"></p>
-                </div>               
+                </div>             
             </form>
         `;
         input = document.getElementById("password");
