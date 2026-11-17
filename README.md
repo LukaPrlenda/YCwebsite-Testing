@@ -2,9 +2,9 @@
 - Web App for Chartering Yachts
 
 ## Unit tests
-- **Setup:** 'npm install' or if PowerShell can not run scripts 'npm.cmd install'  
-- **Run tests:** 'npm test' or if PowerShell can not run scripts 'npm.cmd test'  
-- **Run coverage:** 'npm run coverage' or if PowerShell can not run scripts 'npm.cmd run coverage'
+- **Setup:** `npm install` or if PowerShell can not run scripts `npm.cmd install`  
+- **Run tests:** `npm test` or if PowerShell can not run scripts `npm.cmd test`  
+- **Run coverage:** `npm run coverage` or if PowerShell can not run scripts `npm.cmd run coverage`
 
 ### Coverage
 **Results**  
