@@ -12,11 +12,11 @@
 
 |File                     | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s                    |
 |-------------------------|---------|----------|---------|---------|--------------------------------------|
-|All files                |   17.71 |     7.36 |   42.22 |   15.57 |                                      |
+|All files                |   17.68 |     7.33 |   42.22 |   15.36 |                                      |
 | YCwebsite_LoginForm.js  |       0 |        0 |       0 |       0 | 2-51                                 |
 | YCwebsite_Main.js       |       0 |        0 |       0 |       0 | 1-25                                 |
 | YCwebsite_Services.js   |       0 |        0 |       0 |       0 | 2-223                                |
-| YCwebsite_SignupForm.js |   36.92 |    36.36 |   11.11 |      40 | 2-17,53-90                           |
+| YCwebsite_SignupForm.js |   35.93 |       35 |   11.11 |   38.98 | 2-17,53-90                           |
 | YCwebsite_Theme.js      |       0 |        0 |       0 |       0 | 1-155                                |
 | index.js                |    22.1 |       40 |   29.62 |   32.81 | 13-14,19-20,25-26,31,39-69,89,99-113 |
 | jQuery-3.7.1.min.js     |   18.98 |     7.06 |   47.22 |     100 | 2                                    |

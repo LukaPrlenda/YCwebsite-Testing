@@ -41,7 +41,7 @@ function password_strength_check() {
         text1.style.width = "60%";
         text1.style.backgroundColor = "gold";
     }
-    else if (password.length < 20) {
+    else {
         text1.innerHTML = "Amazing!";
         text1.style.color = "green";
         text1.style.width = "100%";
